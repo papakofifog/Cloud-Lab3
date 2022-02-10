@@ -1,0 +1,13 @@
+.headContainer{
+    background-color:#040720;
+}
+.cv-document{
+    padding-left: 350px;
+    padding-right:200px;
+}
+a{
+    margin-top: 100px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}

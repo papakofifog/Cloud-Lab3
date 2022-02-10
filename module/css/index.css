@@ -1,0 +1,95 @@
+.container1{
+    display: flex;
+    
+}
+.side-nav{
+   background-color:#040720;
+   color: white;
+   position: relative;
+   width: 250px;
+   height: 724px;
+   text-align: center;
+   text-shadow:#040720;
+   
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+.cv-section{
+    text-align: center;
+    margin-top: 15px;
+}
+.pic485>img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+.pic485{
+    height: 100px;
+    width: 100px;
+    border-radius: 60px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(61, 65, 131);
+}
+.cv-description{
+    height: 724px;
+    width: 100%;
+    overflow-y:scroll;
+    position: relative;
+    padding-left: 10px;
+}
+.option457{
+    padding-top: 100px;
+    padding-bottom: 180px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.sections-cv{
+    height: 800px;
+    max-height: fit-content;
+    width: 100%;
+}
+span{
+    display:flex;
+    
+}
+h1{
+    font-size: 80px;
+}
+h3{
+    font-size: 50px;
+}
+h4{
+    font-size: 30px;
+}
+h5{
+    font-size: 25px;
+}
+body{
+    font-family: 'Lora', serif;
+}
+paragraph{
+  
+    font-size: 25px;
+}
+#skill>div>i{
+    width:100px;
+    height:250px;
+}
+.skilldesign{
+    display: flex;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    width: 600px;
+}
+.description_container{
+    width: 100px;
+    font-size: 15px;
+    text-align: justify;
+}
+
